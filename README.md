@@ -90,11 +90,13 @@ A full-stack application that lets users compete and track points on a real-time
    - Backend:
      ```bash
      cd backend
+     npm install 
      npm start
      ```
    - Frontend:
      ```bash
      cd frontend
+     npm install 
      npm start
      ```
 
